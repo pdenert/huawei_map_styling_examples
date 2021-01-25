@@ -16,6 +16,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+
   uses-material-design: true
+
   assets:
-   - assets/mapstyle_night_hms.json
+    - assets/mapstyle_night_hms.json

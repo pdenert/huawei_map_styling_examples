@@ -40,12 +40,13 @@ android {
     }
 
     lintOptions {
+        checkReleaseBuilds false
         disable 'InvalidPackage'
     }
 
     defaultConfig {
         applicationId "pl.denert.huawei_map_styling_example"
-        minSdkVersion 23
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName

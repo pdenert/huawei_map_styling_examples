@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890048000004105456",
+		"product_id":"736430079244779034",
+		"client_id":"538753251135194304",
+		"client_secret":"B1AF2CB6DB9FD97F75A5A01798B199495DE4521054FA93E559EF114CF920AADD",
+		"project_id":"736430079244779034",
+		"app_id":"103697543",
+		"api_key":"CgB6e3x9I3S5KfGOE3JYz3Wfk7LKJMt14t/kTZB31G8CgkJzHoMTyK4gLrZdksVITrowUBds4Idgav2f/0BYM9XE",
+		"package_name":"pl.denert.huawei_map_styling_example"
+	},
+	"configuration_version":"1.0"
+}
