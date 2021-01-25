@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="huawei_map_styling_example"
+        android:label="TestHMS"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
